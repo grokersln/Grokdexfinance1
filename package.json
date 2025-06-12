@@ -1,0 +1,18 @@
+
+{
+  "name": "grokdex",
+  "version": "1.0.0",
+  "description": "GrokDex DEX frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "web3modal": "1.9.12"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
